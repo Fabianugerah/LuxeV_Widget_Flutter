@@ -1,16 +1,50 @@
-# flutter_widget
+# 🚗 LuxeV Widget Showcase – Flutter UI Components
 
-A new Flutter project.
+This project is a **Flutter UI design showcase** for **LuxeV**, a conceptual application for:
+- 🚘 Car rental
+- 🧸 Classic miniature car marketplace
 
-## Getting Started
+It demonstrates **custom reusable widgets**, UI styling, and layout structure as a foundation for a future full-featured mobile application. The goal is to build high-quality, modular UI components that can be reused and extended into a production app.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Project Goals
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Practice building custom widgets in Flutter
+- ✅ Create a consistent visual design system
+- ✅ Prepare UI component architecture for future integration with backend/API
+- ✅ Separate layout and logic for clean development
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Key Features
+
+- 📱 **Reusable Car Cards** with:
+  - Image preview
+  - Car name
+  - Rating
+  - Price per day
+
+- 🎨 **Modern UI Styling** using:
+  - Rounded containers
+  - Drop shadows
+  - Responsive layout
+
+- 🛠️ **Widget modularization**:
+  - Code separation for widgets and screens
+  - Easy to scale and maintain
+
+- ⚡ Fast performance using stateless/stateful widgets
+
+---
+
+## 🛠️ Technologies Used
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+## 📷 UI Preview
+
+![LuxeV UI Preview](screenshots/preview.png)
